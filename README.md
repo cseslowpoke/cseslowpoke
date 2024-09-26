@@ -1,4 +1,5 @@
-## Hi there 👋
+# About me
+I am a beginner in programming and majoring in computer science.
 
 <!--
 **cseslowpoke/cseslowpoke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
